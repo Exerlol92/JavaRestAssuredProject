@@ -1,0 +1,40 @@
+13:11:05.845 [main] INFO  RestAssuredPractice.AddComment - Host Information: http://localhost:8080
+13:11:10.345 [main] INFO  RestAssuredPractice.AddComment - Comment ID is: 10200
+13:11:20.001 [main] INFO  RestAssuredPractice.CreateIssue - Host Information: http://localhost:8080
+13:11:22.106 [main] INFO  RestAssuredPractice.CreateIssue - Issue ID is: 10201
+13:11:22.110 [main] INFO  RestAssuredPractice.CreateIssue - Host Information: http://localhost:8080
+13:11:22.393 [main] INFO  RestAssuredPractice.CreateIssue - Comment ID that i am updating is: 10008
+13:11:22.394 [main] INFO  RestAssuredPractice.CreateIssue - Host Information: http://localhost:8080
+13:11:22.445 [main] INFO  RestAssuredPractice.CreateIssue - Session ID is: D7BCF278BDA7AEFA6692346239BAE295
+13:11:22.447 [main] INFO  RestAssuredPractice.AddComment - Host Information: http://localhost:8080
+13:11:22.686 [main] INFO  RestAssuredPractice.AddComment - Comment ID is: 10201
+13:14:55.327 [main] INFO  RestAssuredPractice.CreateIssue - Host Information: http://localhost:8080
+13:14:57.366 [main] INFO  RestAssuredPractice.CreateIssue - Issue ID is: 10203
+13:14:57.372 [main] INFO  RestAssuredPractice.CreateIssue - Host Information: http://localhost:8080
+13:14:57.571 [main] INFO  RestAssuredPractice.CreateIssue - Comment ID that i am updating is: 10008
+13:14:57.572 [main] INFO  RestAssuredPractice.CreateIssue - Host Information: http://localhost:8080
+13:14:57.627 [main] INFO  RestAssuredPractice.CreateIssue - Session ID is: 7B9CD57B82E22E3E3EF7D77F3F8C78A6
+13:14:57.628 [main] INFO  RestAssuredPractice.AddComment - Host Information: http://localhost:8080
+13:14:57.938 [main] INFO  RestAssuredPractice.AddComment - Comment ID is: 10202
+13:18:47.978 [main] INFO  RestAssuredPractice.CreateIssue - Host Information: http://localhost:8080
+13:18:50.114 [main] INFO  RestAssuredPractice.CreateIssue - Issue ID is: 10205
+13:18:50.119 [main] INFO  RestAssuredPractice.CreateIssue - Host Information: http://localhost:8080
+13:18:50.248 [main] INFO  RestAssuredPractice.CreateIssue - Comment ID that i am updating is: 10008
+13:18:50.249 [main] INFO  RestAssuredPractice.CreateIssue - Host Information: http://localhost:8080
+13:18:50.295 [main] INFO  RestAssuredPractice.CreateIssue - Session ID is: 3E68AAB913603077399F6514302296B0
+13:18:50.296 [main] INFO  RestAssuredPractice.AddComment - Host Information: http://localhost:8080
+13:18:50.577 [main] INFO  RestAssuredPractice.AddComment - Comment ID is: 10203
+13:19:27.758 [main] INFO  RestAssuredPractice.CreateIssue - Host Information: http://localhost:8080
+13:19:29.770 [main] INFO  RestAssuredPractice.CreateIssue - Issue ID is: 10207
+13:19:29.775 [main] INFO  RestAssuredPractice.CreateIssue - Host Information: http://localhost:8080
+13:19:29.948 [main] INFO  RestAssuredPractice.CreateIssue - Comment ID that i am updating is: 10008
+13:19:29.949 [main] INFO  RestAssuredPractice.CreateIssue - Host Information: http://localhost:8080
+13:19:30.001 [main] INFO  RestAssuredPractice.CreateIssue - Session ID is: 36209B5F560C10F1993464CEA12D1210
+13:19:30.003 [main] INFO  RestAssuredPractice.AddComment - Host Information: http://localhost:8080
+13:19:30.202 [main] INFO  RestAssuredPractice.AddComment - Comment ID is: 10204
+12:20:00.104 [main] INFO  RestAssuredPractice.CreateIssue - Host Information: http://localhost:8080
+12:20:11.096 [main] INFO  RestAssuredPractice.CreateIssue - Issue ID is: 10213
+12:35:21.971 [main] INFO  RestAssuredPractice.CreateIssue - Host Information: http://localhost:8080
+12:35:24.788 [main] INFO  RestAssuredPractice.CreateIssue - Issue ID is: 10214
+12:38:14.827 [main] INFO  RestAssuredPractice.DeleteIssue - Host Information: http://localhost:8080
+12:45:02.200 [main] INFO  RestAssuredPractice.DeleteIssue - Host Information: http://localhost:8080

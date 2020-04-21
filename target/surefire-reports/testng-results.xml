@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2479" started-at="2020-04-18T13:19:27 CEST" finished-at="2020-04-18T13:19:30 CEST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="2479" started-at="2020-04-18T13:19:27 CEST" finished-at="2020-04-18T13:19:30 CEST">
+      <class name="RestAssuredPractice.Session">
+        <test-method status="PASS" signature="loadFileEnv()[pri:0, instance:RestAssuredPractice.Session@44c03695]" name="loadFileEnv" is-config="true" duration-ms="0" started-at="2020-04-18T13:19:27 CEST" finished-at="2020-04-18T13:19:27 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadFileEnv -->
+        <test-method status="PASS" signature="StartingSessionTest()[pri:0, instance:RestAssuredPractice.Session@44c03695]" name="StartingSessionTest" duration-ms="53" started-at="2020-04-18T13:19:29 CEST" finished-at="2020-04-18T13:19:30 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartingSessionTest -->
+      </class> <!-- RestAssuredPractice.Session -->
+      <class name="RestAssuredPractice.AddComment">
+        <test-method status="PASS" signature="loadFileEnv()[pri:0, instance:RestAssuredPractice.AddComment@7e6f74c]" name="loadFileEnv" is-config="true" duration-ms="8" started-at="2020-04-18T13:19:27 CEST" finished-at="2020-04-18T13:19:27 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadFileEnv -->
+        <test-method status="PASS" signature="AddingCommentTest()[pri:0, instance:RestAssuredPractice.AddComment@7e6f74c]" name="AddingCommentTest" duration-ms="199" started-at="2020-04-18T13:19:30 CEST" finished-at="2020-04-18T13:19:30 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddingCommentTest -->
+      </class> <!-- RestAssuredPractice.AddComment -->
+      <class name="RestAssuredPractice.CreateIssue">
+        <test-method status="PASS" signature="loadFileEnv()[pri:0, instance:RestAssuredPractice.CreateIssue@1573f9fc]" name="loadFileEnv" is-config="true" duration-ms="0" started-at="2020-04-18T13:19:27 CEST" finished-at="2020-04-18T13:19:27 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadFileEnv -->
+        <test-method status="PASS" signature="CreatingIssueTest()[pri:0, instance:RestAssuredPractice.CreateIssue@1573f9fc]" name="CreatingIssueTest" duration-ms="2016" started-at="2020-04-18T13:19:27 CEST" finished-at="2020-04-18T13:19:29 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatingIssueTest -->
+      </class> <!-- RestAssuredPractice.CreateIssue -->
+      <class name="RestAssuredPractice.UpdateComment">
+        <test-method status="PASS" signature="loadFileEnv()[pri:0, instance:RestAssuredPractice.UpdateComment@6150c3ec]" name="loadFileEnv" is-config="true" duration-ms="1" started-at="2020-04-18T13:19:27 CEST" finished-at="2020-04-18T13:19:27 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadFileEnv -->
+        <test-method status="PASS" signature="UpdateCommentTest()[pri:0, instance:RestAssuredPractice.UpdateComment@6150c3ec]" name="UpdateCommentTest" duration-ms="173" started-at="2020-04-18T13:19:29 CEST" finished-at="2020-04-18T13:19:29 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateCommentTest -->
+      </class> <!-- RestAssuredPractice.UpdateComment -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
